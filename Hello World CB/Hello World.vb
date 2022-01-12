@@ -9,6 +9,7 @@ Module Module1
         Console.ReadLine()
         Console.Beep()
         Console.Beep()
+        Console.Beep()
     End Sub
 
 End Module
