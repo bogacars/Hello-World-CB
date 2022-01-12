@@ -1,4 +1,8 @@
-﻿Module Module1
+﻿'Hello World Program
+'Carson Bogart
+'Spring 2022
+'
+Module Module1
 
     Sub Main()
         Console.WriteLine("Hello World")
